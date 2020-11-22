@@ -1,15 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4eee9301-adf0-4142-9512-f44521d7d683" name="Default Changelist" comment="" />
+    <list default="true" id="4eee9301-adf0-4142-9512-f44521d7d683" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Livewire/UsersTable.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Livewire/UsersTable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/livewire/users-table.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/users-table.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/users/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/users/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Unit/ExampleTest.php" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <execution />
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -158,6 +173,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605910521281</updated>
       <workItem from="1605910522597" duration="9252000" />
+      <workItem from="1606018333069" duration="5107000" />
     </task>
     <servers />
   </component>
@@ -165,10 +181,15 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2613" y="298" width="524" height="482" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1605916736242">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="493" y="229" width="524" height="482" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1606021093296">
+      <screen x="0" y="23" width="1366" height="745" />
     </state>
+    <state x="493" y="229" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.23.1366.745@0.23.1366.745" timestamp="1606021093296" />
     <state x="2613" y="298" width="524" height="482" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1605916736242" />
+    <state x="436" y="314" key="ComposerInitDialogKey" timestamp="1606018580005">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state x="436" y="314" key="ComposerInitDialogKey/0.23.1366.745@0.23.1366.745" timestamp="1606018580005" />
     <state x="2645" y="237" width="459" height="604" key="NewPhpClassDialog" timestamp="1605912542574">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
